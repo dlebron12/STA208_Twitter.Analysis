@@ -1,10 +1,7 @@
 # STA208_Twitter.Analysis
 
 Here is some fun statistics done with the Trump tweets were they see that most of the negative tweets come from an Samsung phone (him) and the positive/ white house news come from an Apple phone.  http://varianceexplained.org/r/trump-tweets/
-
-
-Anywho! 
-
+-----------------------------------------------
 Welcome to this repository! In the papers section, you will find some of the literature read to do this project; it has papers adressing different type of approaches for the sentiment analysis.
 
 The flow of the jupyter notebooks is:
@@ -18,5 +15,5 @@ The flow of the jupyter notebooks is:
 
 A lot still can be done regarding to this project, that could be continued in the future! Is a very interesting way of applying Machine Learning Methods into something that is actually used in the present. 
 
-
+By:Dayanara Lebron 
 
