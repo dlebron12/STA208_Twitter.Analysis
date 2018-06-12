@@ -9,7 +9,7 @@ Welcome to this repository! In the papers section, you will find some of the lit
 
 The flow of the jupyter notebooks is:
 
-![Data_Processing.py.ipynb] where both the Trump and Sentiment Analysis 140 Tweets are processed to remove punctuation, stopwords, hashtags, urls, capitalizations between other grammatical issues that may arise in the tweets.  Also in this notebook, the sentiment data is subsetted to only include 50k tweets half of positive and negative sentiment.
+$\textbf{Data_Processing.py.ipynb} where both the Trump and Sentiment Analysis 140 Tweets are processed to remove punctuation, stopwords, hashtags, urls, capitalizations between other grammatical issues that may arise in the tweets.  Also in this notebook, the sentiment data is subsetted to only include 50k tweets half of positive and negative sentiment.
 
 ![Tweets Descriptive Analysis.ipynb] in this notebook, you can find a little descriptive summary, such as the amount of words/token found in the set of tweets, how many url, hastags were removed from the text. So you have a sense of how important data prepping is.  Also here frequency of words were computed for both positive, negative sentiment and trump tweets and visualized in a word cloud.  
 
